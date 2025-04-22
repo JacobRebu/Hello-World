@@ -1,2 +1,2 @@
-# Hello-World
-This repository is for practicing the GitHub Flow.
+# About me
+I am a student at CRC Sydenham.
